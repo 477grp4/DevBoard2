@@ -1,3 +1,7 @@
 This is v1
 
+<<<<<<< HEAD
 make it v3
+=======
+added in V2
+>>>>>>> parent of ff9cade... Revert "added stuff"
